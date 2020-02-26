@@ -1,0 +1,9 @@
+F:\Steam\steamapps\common\RimWorld\Mods\Mod To Update - Fast Author Confirm\Assemblies\FastAuthorConfirm.dll
+F:\Steam\steamapps\common\RimWorld\Mods\Mod To Update - Fast Author Confirm\Source\FastAuthorConfirm\obj\Release\FastAuthorConfirm.csprojAssemblyReference.cache
+F:\Steam\steamapps\common\RimWorld\Mods\Mod To Update - Fast Author Confirm\Source\FastAuthorConfirm\obj\Release\FastAuthorConfirm.csproj.CoreCompileInputs.cache
+F:\Steam\steamapps\common\RimWorld\Mods\Mod To Update - Fast Author Confirm\Source\FastAuthorConfirm\obj\Release\FastAuthorConfirm.dll
+E:\Steam\steamapps\common\RimWorld\Mods\FastAuthorCofirm\1.1\Assemblies\FastAuthorConfirm.dll
+E:\Steam\steamapps\common\RimWorld\Mods\FastAuthorCofirm\Source\FastAuthorConfirm\obj\Release\FastAuthorConfirm.csprojAssemblyReference.cache
+E:\Steam\steamapps\common\RimWorld\Mods\FastAuthorCofirm\Source\FastAuthorConfirm\obj\Release\FastAuthorConfirm.csproj.CoreCompileInputs.cache
+E:\Steam\steamapps\common\RimWorld\Mods\FastAuthorCofirm\Source\FastAuthorConfirm\obj\Release\FastAuthorConfirm.csproj.CopyComplete
+E:\Steam\steamapps\common\RimWorld\Mods\FastAuthorCofirm\Source\FastAuthorConfirm\obj\Release\FastAuthorConfirm.dll
