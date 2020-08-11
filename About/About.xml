@@ -1,15 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Fast Author Confirm (Continued)</name>
-	<packageId>Mlie.FastAuthorConfirm</packageId>
-	<author>Mlie</author>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<url>https://github.com/emipa606/FastAuthorConfirm</url>
-	<description>
-This is a continuation of Dazz Aephiex's mod, updated for RimWorld 1.1 and HarmonyLib 2.0
+  <name>Fast Author Confirm (Continued)</name>
+  <packageId>Mlie.FastAuthorConfirm</packageId>
+  <author>Mlie</author>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <url>https://github.com/emipa606/FastAuthorConfirm</url>
+  <description>
+This is a continuation of Dazz Aephiex's mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1329690169
 
 --- Original Description ---
