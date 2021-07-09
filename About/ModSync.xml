@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>6af8244f-9b38-4e56-9ccc-136c67f5a810</ID>
   <ModName>Fast Author Confirm (Continued)</ModName>
-  <Version>1.0.4.0</Version>
+  <Version>1.0.5.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>

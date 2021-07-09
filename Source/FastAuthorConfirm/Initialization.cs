@@ -1,4 +1,5 @@
-﻿using Verse;
+﻿using FastAuthorConfirm.HarmonyPatches;
+using Verse;
 
 namespace FastAuthorConfirm
 {
@@ -7,7 +8,7 @@ namespace FastAuthorConfirm
     {
         static Initialization()
         {
-            HarmonyPatches.HPatcher.Init();
+            HPatcher.Init();
         }
     }
 }

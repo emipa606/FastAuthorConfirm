@@ -1,5 +1,5 @@
-﻿using Verse;
-using HarmonyLib;
+﻿using HarmonyLib;
+using Verse;
 
 namespace FastAuthorConfirm.HarmonyPatches
 {
