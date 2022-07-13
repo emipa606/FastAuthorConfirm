@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Fast Author Confirm (Continued)</name>
   <packageId>Mlie.FastAuthorConfirm</packageId>
@@ -21,37 +21,41 @@
     <li>brrainz.harmony</li>
   </loadAfter>
   <url>https://github.com/emipa606/FastAuthorConfirm</url>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
-This is a continuation of Dazz Aephiex&apos;s mod
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+This is a continuation of Dazz Aephiex's mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1329690169
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/FastAuthorConfirm][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
-	[/tr]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/h5VwTNL.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
-I long stopped playing rimworld myself and probably won&apos;t update any of these. Source code is included in the mod file and anyone can update and reupload without asking me for permissions. This mod will stay up for v1.0.
+I long stopped playing rimworld myself and probably won't update any of these. Source code is included in the mod file and anyone can update and reupload without asking me for permissions. This mod will stay up for v1.0.
 
 ============================================================
 
 I can save you 6 seconds of life.
 
-This mod made it so that you won&apos;t have to wait for 6 seconds on the author confirm dialog window while uploading something to workshop. Just click &quot;Yes&quot; twice and directly upload.
+This mod made it so that you won't have to wait for 6 seconds on the author confirm dialog window while uploading something to workshop. Just click "Yes" twice and directly upload.
 
-[h1]This mod won&apos;t do anything if you don&apos;t need to upload anything to workshop.[/h1]
+[h1]This mod won't do anything if you don't need to upload anything to workshop.[/h1]
 
 Incompatibility: None
 Old Save Compatible: Yes
 Safely Removable: Yes
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -62,4 +66,3 @@ Safely Removable: Yes
 [/list]
 </description>
 </ModMetaData>
-
