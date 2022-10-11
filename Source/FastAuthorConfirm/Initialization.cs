@@ -1,14 +1,13 @@
 ﻿using FastAuthorConfirm.HarmonyPatches;
 using Verse;
 
-namespace FastAuthorConfirm
+namespace FastAuthorConfirm;
+
+[StaticConstructorOnStartup]
+public static class Initialization
 {
-    [StaticConstructorOnStartup]
-    public static class Initialization
+    static Initialization()
     {
-        static Initialization()
-        {
-            HPatcher.Init();
-        }
+        HPatcher.Init();
     }
 }
