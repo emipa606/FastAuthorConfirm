@@ -7,7 +7,7 @@ namespace FastAuthorConfirm.HarmonyPatches;
 [HarmonyPatch("InteractionDelayExpired", MethodType.Getter)]
 public static class FastAuthorConfirm_InteractionDelayExpired
 {
-    public static bool Prefix(ref bool __result, ref Dialog_MessageBox __instance)
+    public static bool Prefix(ref bool __result)
     {
         __result = true;
         return false;
