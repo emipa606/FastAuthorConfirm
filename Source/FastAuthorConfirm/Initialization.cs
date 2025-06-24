@@ -1,4 +1,5 @@
-﻿using FastAuthorConfirm.HarmonyPatches;
+﻿using System.Reflection;
+using HarmonyLib;
 using Verse;
 
 namespace FastAuthorConfirm;
@@ -8,6 +9,6 @@ public static class Initialization
 {
     static Initialization()
     {
-        HPatcher.Init();
+        new Harmony("Harmony_FastAuthorConfirm").PatchAll(Assembly.GetExecutingAssembly());
     }
 }
